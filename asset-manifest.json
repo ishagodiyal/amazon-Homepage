@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/amazon-Homepage/static/css/main.7c1c08f8.css",
+    "main.js": "/amazon-Homepage/static/js/main.bb162e41.js",
+    "static/js/787.0e5d44cc.chunk.js": "/amazon-Homepage/static/js/787.0e5d44cc.chunk.js",
+    "static/media/bags.avif": "/amazon-Homepage/static/media/bags.73c0c06c50fe6b47702d.avif",
+    "static/media/bigimage1.jpg": "/amazon-Homepage/static/media/bigimage1.b7d8eb42b07544447220.jpg",
+    "static/media/watch.webp": "/amazon-Homepage/static/media/watch.b5c8ecd9677f5da50d19.webp",
+    "static/media/bolt.jpeg": "/amazon-Homepage/static/media/bolt.a012519f674c7851de8d.jpeg",
+    "static/media/bigimage2.jpg": "/amazon-Homepage/static/media/bigimage2.111f9c38a8127ae3dd2e.jpg",
+    "static/media/boat.jpg": "/amazon-Homepage/static/media/boat.618a9b3ab8182d11f391.jpg",
+    "static/media/bigimage3.jpg": "/amazon-Homepage/static/media/bigimage3.9848db77c84b931dc81e.jpg",
+    "static/media/shoes.jpeg": "/amazon-Homepage/static/media/shoes.e2cee22a238090c7d337.jpeg",
+    "static/media/zebronics.webp": "/amazon-Homepage/static/media/zebronics.cb5f3d889209f559a48e.webp",
+    "static/media/sports.jpg": "/amazon-Homepage/static/media/sports.9ccef18b65ffdddfcc21.jpg",
+    "static/media/crushed.jpg": "/amazon-Homepage/static/media/crushed.ddd78c682416c288d1a9.jpg",
+    "static/media/box2_4.jpg": "/amazon-Homepage/static/media/box2_4.b937a48b05d8ebf4d153.jpg",
+    "static/media/pharmacy.jpg": "/amazon-Homepage/static/media/pharmacy.070b86eb6987f7d01ce2.jpg",
+    "static/media/noise.jpeg": "/amazon-Homepage/static/media/noise.d9d816c1213b53e3708b.jpeg",
+    "index.html": "/amazon-Homepage/index.html",
+    "main.7c1c08f8.css.map": "/amazon-Homepage/static/css/main.7c1c08f8.css.map",
+    "main.bb162e41.js.map": "/amazon-Homepage/static/js/main.bb162e41.js.map",
+    "787.0e5d44cc.chunk.js.map": "/amazon-Homepage/static/js/787.0e5d44cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c1c08f8.css",
+    "static/js/main.bb162e41.js"
+  ]
+}
